@@ -34,7 +34,7 @@ function handleClick(event) {
   }
   else {
     missCount++;
-    $(event.target).addClass("mis");
+    $(event.target).addClass("miss");
   }
 }
 
